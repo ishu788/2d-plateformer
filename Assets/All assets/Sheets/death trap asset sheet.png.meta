@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 8cdd847ab4f914d4cb3d23e9eb98958d
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Swing01
+    21300002: RopeSmall
+    21300004: RopeMedium
+    21300006: RopeLarge
+    21300008: SkullDecoBlack
+    21300010: SkullDecoRed
+    21300012: WoodenSwingBase
+    21300014: CannonWheelFront
+    21300016: CannonWheelBack
+    21300018: CannonRoot
+    21300020: CannonBarrel
+    21300022: CannonBalls
+    21300024: SkullLarge
+    21300026: Swing01Bloody
+    21300028: Spikes
+    21300030: WoodenSpikes01
+    21300032: WoodenSpikes02
+    21300034: WoodenSpikes03
+    21300036: WoodenSpikes04
+    21300038: CannonBall
+    21300040: SawBase
+    21300042: ChainLink
+    21300044: Chain01
+    21300046: Chain02
+    21300048: Chain03
+    21300050: Chain04
+    21300052: FloorTile01
+    21300054: FloorTilleBlackSkull
+    21300056: FloorTilleRedSkull
+    21300058: FloorTileSquare
+    21300060: MetalicSwingRoot
+    21300062: MaceRed
+    21300064: MaceBlack
+    21300066: Swing02Bloody
+    21300068: Swing02
+    21300070: WoodenConector
+    21300072: SawBloody
+    21300074: SawClean
+    21300076: death trap asset sheet_0
+    21300078: death trap asset sheet_1
+    21300080: death trap asset sheet_2
+    21300082: death trap asset sheet_3
+    21300084: death trap asset sheet_4
+    21300086: death trap asset sheet_5
+    21300088: death trap asset sheet_6
+    21300090: death trap asset sheet_7
+    21300092: death trap asset sheet_8
+    21300094: death trap asset sheet_9
+    21300096: death trap asset sheet_10
+    21300098: death trap asset sheet_11
+    21300100: death trap asset sheet_12
+    21300102: death trap asset sheet_13
+    21300104: death trap asset sheet_14
+    21300106: death trap asset sheet_15
+    21300108: death trap asset sheet_16
+    21300110: death trap asset sheet_17
+    21300112: death trap asset sheet_18
+    21300114: death trap asset sheet_19
+    21300116: death trap asset sheet_20
+    21300118: death trap asset sheet_21
+    21300120: death trap asset sheet_22
+    21300122: death trap asset sheet_23
+    21300124: death trap asset sheet_24
+    21300126: death trap asset sheet_25
+    21300128: death trap asset sheet_26
+    21300130: death trap asset sheet_27
+    21300132: death trap asset sheet_28
+    21300134: death trap asset sheet_29
+    21300136: death trap asset sheet_30
+    21300138: death trap asset sheet_31
+    21300140: death trap asset sheet_32
+    21300142: death trap asset sheet_33
+    21300144: death trap asset sheet_34
+    21300146: death trap asset sheet_35
+    21300148: death trap asset sheet_36
+    21300150: death trap asset sheet_37
+    21300152: death trap asset sheet_38
+    21300154: death trap asset sheet_39
+    21300156: death trap asset sheet_40
+    21300158: death trap asset sheet_41
+    21300160: death trap asset sheet_42
+    21300162: death trap asset sheet_43
+    21300164: death trap asset sheet_44
+    21300166: death trap asset sheet_45
+    21300168: death trap asset sheet_46
+    21300170: death trap asset sheet_47
+    21300172: death trap asset sheet_48
+    21300174: death trap asset sheet_49
+    21300176: death trap asset sheet_50
+    21300178: death trap asset sheet_51
+    21300180: death trap asset sheet_52
+    21300182: death trap asset sheet_53
+    21300184: death trap asset sheet_54
+    21300186: death trap asset sheet_55
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death trap asset sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1342
+        width: 456
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
